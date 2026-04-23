@@ -17,7 +17,7 @@ all elctronics projects that I worked
 [servo sweep](https://github.com/rvbw/arduino-servo-sweep)
 
 ## arduino servo knob control  
-[servo knob](https://github.com/rvbw/Arduino-Analog-Control-System-Potentiometer)
+[servo knob](https://github.com/rvbw/arduino-servo-knob-control)
 
 ## arduino servo sweep control 
 [servo sweep control](https://github.com/rvbw/arduino-servo-sweep-control)
