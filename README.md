@@ -1,6 +1,12 @@
 # All-elctronics-projects
 all elctronics projects that I worked
 ---
+## basic battery led circuit 
+[battery led](https://github.com/rvbw/basic-battery-led-circuit)
+
+## arduino ldr serial monitor
+[ldr](https://github.com/rvbw/arduino-ldr-serial-monitor)
+
 ## arduino button led toggle 
 [button led](https://github.com/rvbw/arduino-button-led-toggle)
 
