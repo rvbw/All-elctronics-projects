@@ -4,6 +4,9 @@ all elctronics projects that I worked
 ## basic battery led circuit 
 [battery led](https://github.com/rvbw/basic-battery-led-circuit)
 
+## arduino tmp36 serial temperature
+[ldr](https://github.com/rvbw/arduino-tmp36-serial-temperature)
+
 ## arduino ldr serial monitor
 [ldr](https://github.com/rvbw/arduino-ldr-serial-monitor)
 
@@ -27,6 +30,12 @@ all elctronics projects that I worked
 
 ## arduino servo sweep control 
 [servo sweep control](https://github.com/rvbw/arduino-servo-sweep-control)
+
+## arduino stepper direction control  
+[stepper direction](https://github.com/rvbw/arduino-stepper-direction-control)
+
+## arduino dual stepper speed control
+[dual stepper](https://github.com/rvbw/arduino-dual-stepper-speed-control)
 
 ## esp32 stepper motor control 
 [stepper motor](https://github.com/rvbw/esp32-stepper-motor-control)
